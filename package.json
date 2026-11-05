@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@biomejs/biome": "2.6.5"
+  },
+  "license": "ISC",
+  "type": "module"
+}
